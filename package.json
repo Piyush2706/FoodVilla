@@ -2,8 +2,9 @@
   "name": "lec-05",
   "version": "1.0.0",
   "description": "this is lec-05",
+  "main": "src/App.js",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "node src/App.js",
     "build": "parcel build index.html",
     "test": "jest"
   },
