@@ -1,0 +1,37 @@
+{
+  "name": "lec-05",
+  "version": "1.0.0",
+  "description": "this is lec-05",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam9082/NamasteReactLec05.git"
+  },
+  "author": "Shivam Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam9082/NamasteReactLec05/issues"
+  },
+  "homepage": "https://github.com/shivam9082/NamasteReactLec05#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.8",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.39",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.25.0"
+  },
+  "main": "App.js",
+  "keywords": []
+}
