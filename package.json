@@ -1,4 +1,7 @@
 {
+  "engines" :{
+    "node": "20.15.1"
+  },
   "name": "lec-05",
   "version": "1.0.0",
   "description": "this is lec-05",
@@ -12,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/shivam9082/NamasteReactLec05.git"
   },
-  "author": "Shivam Pandey",
+  "author": "Piyush Yadav",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shivam9082/NamasteReactLec05/issues"
